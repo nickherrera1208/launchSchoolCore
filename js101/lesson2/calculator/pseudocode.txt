@@ -1,0 +1,35 @@
+  Psuedocode
+
+  a function that returns the sum of two numbers:
+  
+  start
+
+  create two args for function
+
+  return arg1 + arg2
+
+  end
+
+  a function that takes an array of strings, and returns a string that is all those strings concatenated together:
+
+  start
+
+  make an empty string variable
+
+  iterate through each string in array 
+
+  add string to string variable. 
+
+  end
+
+  a method that takes an array of integers, and returns a new array with every other element from the original array, starting with the first element:
+
+  start
+
+  create a function that takes an array argument
+
+  check if the element index in the array divided by 2 is 0
+
+  if so, print it out. 
+
+  end
